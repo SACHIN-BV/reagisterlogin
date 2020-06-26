@@ -1,0 +1,26 @@
+{
+    "book_array": [
+     {
+      "book_title": "React Native - The Practical Guide", 
+      "image": "http://184.171.246.212/~afrodigitals/Online%20Course/upload/header.jpg", 
+      "author": "Thomas Harris",
+      "page": "100",
+      "rate": "3"
+     }, 
+     {
+      "book_title": "Data Science", 
+      "image": "http://184.171.246.212/~afrodigitals/Online%20Course/upload/header.jpg", 
+      "author": "Stieg Larsson",
+      "page": "100",
+      "rate": "4"
+     }, 
+     {
+      "book_title": " AWS Concepts", 
+      "image": "http://184.171.246.212/~afrodigitals/Online%20Course/upload/header.jpg", 
+      "author": "James Patterson",
+      "page": "50",
+      "rate": "4"
+     }, 
+    
+    ]
+   }

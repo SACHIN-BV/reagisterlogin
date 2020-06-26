@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10283008298",
+    "firebase_url": "https://online-course-e5510.firebaseio.com",
+    "project_id": "online-course-e5510",
+    "storage_bucket": "online-course-e5510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10283008298:android:85f49f43aa234fbe729e53",
+        "android_client_info": {
+          "package_name": "com.registerlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10283008298-9vub8cl6c9g0n78fhd41gl8n6jkgrktq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvGc1Gt45IenTilXMWJ63OFJQ1uy-ibY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10283008298-9vub8cl6c9g0n78fhd41gl8n6jkgrktq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
